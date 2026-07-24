@@ -1,6 +1,6 @@
-using OpenEMS
+using OpenEMSpy
 using Test
 
-@testset "OpenEMS.jl" begin
+@testset "OpenEMSpy.jl" begin
     # Write your tests here.
 end
