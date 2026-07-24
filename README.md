@@ -1,16 +1,16 @@
-# OpenEMS.jl
+# OpenEMSpy.jl
 
-A Julia interface for OpenEMS.
+A Julia interface for openEMS.
 
 ## Installation
 
 ```julia
 using Pkg
-Pkg.add("OpenEMS")
+Pkg.add("OpenEMSpy")
 ```
 
 ## Usage
 
 ```julia
-using OpenEMS
+using OpenEMSpy
 ```

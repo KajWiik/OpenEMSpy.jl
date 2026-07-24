@@ -1,4 +1,4 @@
-module OpenEMS
+module OpenEMSpy
 
 using PythonCall, HDF5, JLD2
 import PhysicalConstants.CODATA2018: c_0, ε_0
